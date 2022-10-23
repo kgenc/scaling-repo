@@ -1,2 +1,0 @@
-# scaling-repo
-test
